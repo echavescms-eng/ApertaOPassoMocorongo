@@ -31,7 +31,11 @@ programa{
             
                 valorReal = valorDolar * cotacao
                 escreva("O valor equivalente em real é: ", valorReal, "\n")
-            
+    
+
+        }
+        senao{
+            escreva("Opção inválida! Por favor, escolha 1 ou 2.\n")
         }
         
 
