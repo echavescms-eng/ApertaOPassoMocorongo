@@ -19,6 +19,6 @@ programa{ //MENOR NUMERO
         }
 
         escreva("\nMenor valor: ", menor)//imprime para o user qual o menor valor
-        escreva("\nIndice: ", indice)
+        escreva("\nIndice: ", indice)//imprime para o usuario qual o indice do vetor (0-6)
     }
 }
